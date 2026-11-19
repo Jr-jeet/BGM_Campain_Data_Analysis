@@ -1,7 +1,7 @@
 # BGM_Campain_Data_Analysis
 # Marketing Campaign Sales Analysis
 # Tools use
-EXCEL And Power BI
+Microsoft Excel  And Power BI
 ##  Project Overview
 This project analyzes customer interaction and sales data across different marketing campaigns and acquisition channels. Using **500 customer interaction records**, the analysis evaluates campaign effectiveness, channel performance, and user engagement to identify key revenue drivers.
 
@@ -23,5 +23,5 @@ The dataset contains **500 rows** and **7 columns** tracking individual customer
   * Campaign B performed significantly better on **Email** ($5.0K vs. $3.0K) and **Web Banner** ($2.1K vs. $0.8K).
   * Campaign A held a slight edge over Campaign B on **Instagram** ($2.2K vs. $1.7K).
 
-## 🛠️ Tools Used
+##  Tools Used
 * **Microsoft Excel / Power BI:** Data cleaning, aggregation, and visual dashboarding.
